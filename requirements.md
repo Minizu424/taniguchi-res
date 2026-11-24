@@ -48,11 +48,6 @@
 
 ## 4. 画面（GUI）仕様
 
-画面スケッチは以下のファイルを参照する。
-
-- タイトル画面：`docs/specs/title_screen.png`
-- ゲーム画面：`docs/specs/game_screen.png`
-- 結果画面：`docs/specs/result_screen.png`
 
 ### 4.1 タイトル画面
 
